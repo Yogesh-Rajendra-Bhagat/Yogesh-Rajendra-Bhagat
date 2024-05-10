@@ -29,10 +29,11 @@ I have below certifications
   <a href="https://terraform.io/" target="_blank" >
     <img src="https://github.com/Yogesh-Rajendra-Bhagat/logos/blob/main/terraform.png"  height="75" />
   </a>
-  
-    <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://github.com/Yogesh-Rajendra-Bhagat/logos/blob/main/docker.png"  height="80" /> 
+
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://github.com/Yogesh-Rajendra-Bhagat/logos/blob/main/docker.png"  height="75" />
   </a>
+  
   
   <a href="https://www.jenkins.io/doc/tutorials/" target="_blank" >
     <img src="https://github.com/Yogesh-Rajendra-Bhagat/logos/blob/main/jenkins.png"  height="80" /> 
