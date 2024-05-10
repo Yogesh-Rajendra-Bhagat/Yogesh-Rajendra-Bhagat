@@ -53,10 +53,7 @@ I have below certifications
   <a href="https://www.datadoghq.com/" target="_blank" >
     <img src="https://github.com/Yogesh-Rajendra-Bhagat/logos/blob/main/data_dog.png" height="65" />
   </a>
-  <a href="" target="_blank" >
-    <img src="" height="60" />
-  </a>
-    <a href="https://www.postgresql.org" target="_blank" >
+     <a href="https://www.postgresql.org" target="_blank" >
     <img src="https://github.com/Yogesh-Rajendra-Bhagat/logos/blob/main/cloud_watch.png" height="60" />
   </a>
   </a>
