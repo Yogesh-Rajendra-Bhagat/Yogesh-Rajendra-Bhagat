@@ -84,4 +84,4 @@ I have below certifications
 
  - Visit my [youtube](https://www.youtube.com/@Know_Basics) 🌐
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/yogesh-bhagat-264155229/) 👨🏻‍💻
- - Shoot Me an [Email](mailto:Bhagatyogesh24@gmail.com 💌
+ 
