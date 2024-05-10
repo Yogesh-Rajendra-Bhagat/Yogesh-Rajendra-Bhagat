@@ -15,7 +15,7 @@ I have below certifications
   
  <p float="left">
   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://github.com/Yogesh-Rajendra-Bhagat/logos/blob/main/amazon.jpg"  height="75" />
+    <img src="https://github.com/Yogesh-Rajendra-Bhagat/logos/blob/main/aws.png"  height="75" />
   </a> 
   <a href="https://portal.azure.com/" target="_blank" >
     <img src="https://github.com/Yogesh-Rajendra-Bhagat/logos/blob/main/azure.png"  height="75" />
@@ -25,11 +25,13 @@ I have below certifications
 ### other tools
 
 <p float="left">
-  <a href="https://python.org/" target="_blank" >
-    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
   </a>
-  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+  <a href="https://terraform.io/" target="_blank" >
+    <img src="https://github.com/Yogesh-Rajendra-Bhagat/logos/blob/main/terraform.png"  height="75" />
+  </a>
+  
+    <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://github.com/Yogesh-Rajendra-Bhagat/logos/blob/main/docker.png"  height="80" /> 
   </a>
   
   <a href="https://www.jenkins.io/doc/tutorials/" target="_blank" >
@@ -38,9 +40,9 @@ I have below certifications
   
   <a href="https://kubernetes.io/" target="_blank" >
     <img src="https://github.com/Yogesh-Rajendra-Bhagat/logos/blob/main/kubernetes.png"  height="65" />
-  </a>
-  <a href="https://terraform.io/" target="_blank" >
-    <img src="https://github.com/Yogesh-Rajendra-Bhagat/logos/blob/main/terraform.png"  height="75" />
+  
+  <a href="https://python.org/" target="_blank" >
+    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
   </a>
  </p>
 
@@ -84,5 +86,4 @@ I have below certifications
 
  - Visit my [youtube](https://www.youtube.com/@Know_Basics) 🌐
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/yogesh-bhagat-264155229/) 👨🏻‍💻
- - Follow me on [Instagram]() ✨
  - Shoot Me an [Email](mailto:Bhagatyogesh24@gmail.com 💌
