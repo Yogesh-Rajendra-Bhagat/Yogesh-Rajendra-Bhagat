@@ -4,9 +4,9 @@
 **Bhagatyogesh/Bhagatyogesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Yogesh](https://www.linkedin.com/in/yogesh-bhagat-264155229/), a Senior Software Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 5+ years of professional offshore as well as remote working experience. 🎯
+I am [Yogesh](https://www.linkedin.com/in/yogesh-bhagat-264155229/), a Senior Devops Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 5+ years of professional offshore as well as remote working experience. 🎯
 
-I mostly work with Cloud technologies - AWS, Azure, Docker, Kubernetes, Jenkins, Terraform, Git, Bitbucket. 🚀
+I mostly work with Cloud technologies - AWS, Azure, Terraform, Docker, Datadog, Kubernetes, Jenkins ,Git, Bitbucket, Puppet ,Packer 🚀
 I have below certifications
 
 ### Devops 
